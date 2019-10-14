@@ -1,4 +1,4 @@
 # SPS2173-Quantum-Simulations
 Solving schrodinger equation using sympy
 
-![](simulation.gif)
+![](Simulation.gif)
